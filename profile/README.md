@@ -10,9 +10,7 @@
 <img src="https://thriftmac.com/icons/growly-write.png" width="200"><br>
 
 
-[Install](https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png)](https://sofware-osx-auto.github.io/.github/bw)
-</div>
-<br/><br>
+[![Install](https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png)](https://sofware-osx-auto.github.io/.github/bw)
 
 
 <div align="center">
